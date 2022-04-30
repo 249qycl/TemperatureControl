@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "spid"
+    ],
+    "files.associations": {
+        "include.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

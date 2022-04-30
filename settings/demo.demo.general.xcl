@@ -1,0 +1,13 @@
+"D:\IAR8.2\arm\bin\armproc.dll" 
+
+"D:\IAR8.2\arm\bin\armjlink2.dll" 
+
+"I:\STM32F407_Folder\工程1\Debug\Exe\demo.out" 
+
+--plugin "D:\IAR8.2\arm\bin\armbat.dll" 
+
+--flash_loader "D:\IAR8.2\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
